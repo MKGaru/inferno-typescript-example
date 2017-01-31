@@ -1,7 +1,7 @@
 {
 	"version": "2.1.5",
 	"compilerOptions": {
-		"target": "es6",
+		"target": "es5",
 		"module": "es6",
 		"allowJs": false,
 		"allowSyntheticDefaultImports": true,
@@ -14,7 +14,7 @@
 		"types": [
 			"inferno"
 		],
-		"jsx": "preserve",
+		"jsx": "react",
 		"noUnusedLocals": true,
 		"strictNullChecks": false,
 		"removeComments": false
